@@ -1,6 +1,7 @@
 ### Hi, I'm Arian 👋
 
 [Download CV](https://github.com/arian22/portfolio/blob/master/Arian_CV.pdf)
+<br />
 [Portfolio page](https://arian22.github.io/portfolio/)
 
 
