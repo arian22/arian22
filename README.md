@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![209031.jpg](209031.jpg)
 
+🔭 I’m currently working on Vesta Wealth Partners as a Fullstach Developer
+
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/arian22/arian22/blob/main/linkedin.png" />]( https://www.linkedin.com/in/arian-mobarghei-10697313b/)
 <br />
 
@@ -9,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
