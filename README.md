@@ -1,11 +1,11 @@
 ### Hi, I'm Arian 👋
 
 Please check out my [portfolio page](https://arian22.github.io/portfolio/)
-<br /><br />
+<br />
 Also, you can [download](https://github.com/arian22/portfolio/blob/master/Arian_CV.pdf) my full resume
 
 
-### Connect with me
+<br /><br />
 
 [<img align="left" alt="LinkedIn" width="35" src="https://github.com/arian22/arian22/blob/main/linkedin.png" />]( https://www.linkedin.com/in/arian-mobarghei-10697313b/)
 [<img align="left" alt="gmail" width="44" src="https://github.com/arian22/arian22/blob/main/gmail.png" />](mailto:arian.mobarghei@gmail.com)
