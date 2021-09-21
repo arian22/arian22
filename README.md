@@ -8,7 +8,7 @@ Also, you can [download](https://github.com/arian22/portfolio/blob/master/Arian_
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" width="35" src="https://github.com/arian22/arian22/blob/main/linkedin.png" />]( https://www.linkedin.com/in/arian-mobarghei-10697313b/)
-[<img align="left" alt="gmail" width="45" src="https://github.com/arian22/arian22/blob/main/gmail.png" />](mailto:arian.mobarghei@gmail.com)
+[<img align="left" alt="gmail" width="44" src="https://github.com/arian22/arian22/blob/main/gmail.png" />](mailto:arian.mobarghei@gmail.com)
 <br />
 
 
