@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![209031.jpg](209031.jpg)
 
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/arian22/arian22/blob/main/linkedin.png" />]( https://www.linkedin.com/in/arian-mobarghei-10697313b/)
+<br />
+
 <!--
 **arian22/arian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
