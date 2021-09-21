@@ -1,9 +1,8 @@
 ### Hi, I'm Arian 👋
 
 Please check out my [portfolio page](https://arian22.github.io/portfolio/)
-<br />
-Also, you can [download](https://github.com/arian22/portfolio/blob/master/Arian_CV.pdf) my full resume
 
+Also, you can [download](https://github.com/arian22/portfolio/blob/master/Arian_CV.pdf) my full resume
 
 <br /><br />
 
