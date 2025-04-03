@@ -4,7 +4,7 @@ Please check out my [portfolio page](https://arian22.github.io/portfolio/)
 
 <br /><br />
 
-[<img align="left" alt="LinkedIn" width="35" src="https://github.com/arian22/arian22/blob/main/linkedin.png" />]( https://www.linkedin.com/in/arian-m-10697313b/)
+[<img align="left" alt="LinkedIn" width="35" src="https://github.com/arian22/arian22/blob/main/linkedin.png" />]( https://www.linkedin.com/in/arian-mobarghei/)
 [<img align="left" alt="gmail" width="44" src="https://github.com/arian22/arian22/blob/main/gmail.png" />](mailto:arian.mobarghei@gmail.com)
 <br />
 
